@@ -216,7 +216,7 @@ html {
 .menu {
     left: 10%;
   -webkit-overflow-scrolling: touch;
-  background: url(../images/fondo3.jpg);
+  background: url(../images/fondoweb.jpg);
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
