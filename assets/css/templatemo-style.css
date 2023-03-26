@@ -7,7 +7,7 @@ body {
 }
 
 #page-wraper {
-    background: url(../images/fondo3.jpg) no-repeat center center fixed;
+    background: url(../images/fondodos.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -216,7 +216,7 @@ html {
 .menu {
     left: 10%;
   -webkit-overflow-scrolling: touch;
-  background: url(../images/fondodos.jpg);
+  background: url(../images/fondo3.jpg);
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
